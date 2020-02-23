@@ -118,7 +118,6 @@ conversations:
 -Este monumento se encuentra en la India.
 --Cuál es el nombre de la lengua oficial en china
 -El idioma oficial del país más poblado de la tierra es el mandarín.
- 
 --Quién va a la cárcel: el imputado, el acusado, el condenado
 -La persona que va a la cárcel es el condenado (en caso de que la condena conlleve una pena de privación de libertad, obviamente).
 --Quién era el general de los nazis en la Segunda Guerra Mundial
@@ -133,7 +132,6 @@ conversations:
 -Cuando queremos ver un astro de cerca, tenemos que usar un telescopio.
 -- Cuál es el área del arte protagonista en los Premios Óscar
 -Los Óscar son premios que se otorgan a las películas, actores, directores y, en general, a figuras del mundo del cine.
-
 --Cuál es el primero de la lista de los números primos
 -El 2 es el primer número primo.
 --Cómo se le llama a una colección de revistas, diarios y publicaciones periódicas
@@ -146,7 +144,6 @@ conversations:
 -Un átomo tiene menores dimensiones que una molécula, puesto que las moléculas están hechas de átomos.
 --Qué grasas hacen tan saludable el aceite de oliva
 -Las monoinsaturadas son grasas insaturadas que se encuentran en el aceite de oliva.
-
 --Qué era el Concorde
 -Un avión supersónico utilizado para transportar a viajeros.
 --Quién ganó el mundial de 2014
@@ -215,7 +212,6 @@ conversations:
 -La capital de la República Francesa es París, la ciudad del amor.
 --Cuándo empezó la Primera Guerra Mundial
 -El año de inicio de la Primera Guerra mundial es en 1914.
-
 --Qué deporte practica profesionalmente Roger Federer
 Roger Federer es uno de los mejores jugadores de tenis de la actualidad.
 --En qué país se encuentra el estadio de Wembley
