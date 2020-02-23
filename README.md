@@ -1,0 +1,2 @@
+# entrenar
+entrenar bot
